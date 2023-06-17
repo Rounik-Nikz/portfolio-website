@@ -6,7 +6,6 @@ const assets = [
   "/assets/css/swiper-bundle.min.css",
   "/assets/js/main.js",
   "/assets/js/swiper-bundle.min.js",
-  "/assets/pdf/Animesh_Rawat_resume.pdf",
   "/assets/img/blob.svg",
   "/assets/img/hacker-profile.png",
   "/assets/img/mt-fuji.jpg",
