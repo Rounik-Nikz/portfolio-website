@@ -28,7 +28,7 @@ const assets = [
 
 self.addEventListener("install", (installEvent) => {
   installEvent.waitUntil(
-    caches.open(staticRounikhData).then((cache) => {
+    caches.open(staticRounikData).then((cache) => {
       cache.addAll(assets);
     })
   );
